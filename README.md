@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/> 
 </h1>
 
-## About Me
+#### About Me
 I am Erfan, a computer engineer with a passion for machine learning, software, data science, and embedded systems. I enjoy working on projects involving computer vision and time series analysis.
 
 More specifically I am motivated to work with AI models (including Generative models, LLMS, Real Time Object Detection & Tracking) and apply them to the web applications.
