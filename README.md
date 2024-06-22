@@ -25,6 +25,6 @@ More specifically I am motivated to work with AI models (including Generative mo
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-seifi/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/erfan__seifi)
-![Email](https://img.shields.io/badge/mailto:erfan.seifi.work@gmail.com-red?style=flat-square&logo=gmail)
+[![Email](https://img.shields.io/badge/erfan.seifi.work@gmail.com-red?style=flat-square&logo=gmail)](https://erfan.seifi.work@gmail.com)
 
 
