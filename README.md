@@ -3,13 +3,6 @@
   <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/> 
 </h1>
 
-## Central Time Live Clock
-
-## Central Time Live Clock
-
-[![View Live Clock](https://img.shields.io/badge/View%20Live%20Clock-000000?style=for-the-badge)](https://github.com/erfan-seifi/erfan-seifi/yourrepository/CT.html)
-
-
 
 ### About Me
 I am Erfan, a computer engineer with a passion for machine learning, software, data science, and embedded systems. I enjoy working on projects involving computer vision and time series analysis.
