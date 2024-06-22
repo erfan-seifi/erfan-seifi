@@ -7,7 +7,7 @@
 
 ## Central Time Live Clock
 
-[View Live Clock](https://yourusername.github.io/yourrepository/](https://github.com/erfan-seifi/erfan-seifi/blob/main/CT.html)
+![View Live Clock](https://yourusername.github.io/yourrepository/](https://github.com/erfan-seifi/erfan-seifi/blob/main/CT.html)
 
 
 
