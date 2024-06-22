@@ -6,7 +6,7 @@ I am a data scientist with a passion for machine learning, software engineering,
 
 ## Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C++-092E20?style=for-the-badge&logo=C++&logoColor=white)
 
 ## Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
