@@ -5,7 +5,7 @@
 
 ## Central Time Live Clock
 
-![Analog Clock](https://www.clocklink.com/embed/img/clock1.gif)(http://www.clocklink.com/)
+[![Analog Clock](https://www.clocklink.com/embed/img/clock1.gif)](http://www.clocklink.com/)
 
 
 ### About Me
