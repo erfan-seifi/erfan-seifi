@@ -8,7 +8,7 @@ I am Erfan, a computer engineer with a passion for machine learning, software, d
 
 More specifically I am motivated to work with AI models (including Generative models, LLMS, Real Time Object Detection & Tracking) and apply them to the web applications.
 
-Education 👨🏻‍🎓: M.Sc. in Electrical and Computer Eng., University of Oklahoma, U.S.🇺🇸
+👨🏻‍🎓 Education: M.Sc. in Electrical and Computer Eng., University of Oklahoma, U.S.🇺🇸
 
 
 ## Programming
