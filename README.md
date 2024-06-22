@@ -3,6 +3,8 @@
 ## About Me
 I am a data scientist with a passion for machine learning, software engineering, and embedded systems. I enjoy working on projects involving computer vision and time series analysis.
 
+More specifically I am motivated to work with AI models (including Generative models, LLMS, Real Time Object Detection & Tracking) and apply them to the web applications.
+
 
 ## Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
