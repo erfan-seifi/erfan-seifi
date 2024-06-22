@@ -7,7 +7,7 @@
 
 ## Central Time Live Clock
 
-![View Live Clock](https://github.com/erfan-seifi/erfan-seifi/)
+[![View Live Clock](https://img.shields.io/badge/View%20Live%20Clock-000000?style=for-the-badge)](https://github.com/erfan-seifi/erfan-seifi/yourrepository/CT.html)
 
 
 
