@@ -1,12 +1,16 @@
 # Hi there, I'm Erfan Seifi 👋
 
 ## About Me
-I am a [Your Profession/Role] with a passion for [Your Interests]. I enjoy working on projects involving [Key Areas of Interest].
+I am a data scientist with a passion for machine learning, software engineering, and embedded systems. I enjoy working on projects involving computer vision and time series analysis.
 
-## Libraries and Frameworks
+
+## Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+## Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## Tools and Technologies
