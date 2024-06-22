@@ -16,12 +16,13 @@ More specifically I am motivated to work with AI models (including Generative mo
 ![C++](https://img.shields.io/badge/C++-092E20?style=for-the-badge&logo=C++&logoColor=white)
 ![C](https://img.shields.io/badge/C-092J20?style=for-the-badge&logo=C++&logoColor=white)
 
-## Frontend
+## Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## Backend
+## Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## Platforms and Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
