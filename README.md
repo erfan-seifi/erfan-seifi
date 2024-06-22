@@ -21,9 +21,6 @@ More specifically I am motivated to work with AI models (including Generative mo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Projects
-- [Project Name](Project URL): A brief description of the project.
-- [Another Project](Project URL): A brief description of the project.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-seifi/)
