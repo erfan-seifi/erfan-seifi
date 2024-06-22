@@ -9,7 +9,7 @@ More specifically I am motivated to work with AI models (including Generative mo
 ## Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-092E20?style=for-the-badge&logo=C++&logoColor=white)
-![C](https://img.shields.io/badge/C-092E20?style=for-the-badge&logo=C++&logoColor=white)
+![C](https://img.shields.io/badge/C-092E21?style=for-the-badge&logo=C++&logoColor=white)
 
 ## Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
