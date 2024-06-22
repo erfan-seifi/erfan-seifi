@@ -1,4 +1,7 @@
-# Hi there, I'm Erfan Seifi 👋
+<h1 align="center">
+  Hi there, welcome to my Github page !!! 
+  <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/> 
+</h1>
 
 ## About Me
 I am a data scientist with a passion for machine learning, software engineering, and embedded systems. I enjoy working on projects involving computer vision and time series analysis.
