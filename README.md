@@ -13,7 +13,7 @@ More specifically I am motivated to work with AI models (including Generative mo
 
 ## Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-092E20?style=for-the-badge&logo=C++&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-092E20?style=for-the-badge&logo=C++&logoColor=white)
 ![C](https://img.shields.io/badge/C-092J20?style=for-the-badge&logo=C++&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
