@@ -5,7 +5,7 @@
 
 
 ### About Me
-I am Erfan, a computer engineer with a passion for machine learning, software, data science, and embedded systems. I enjoy working on projects involving computer vision and time series analysis.
+I am Erfan, a computer engineer with a passion for machine learning, software, data science, and embedded systems. I am skilled in SQL, Tableau and Python and I enjoy working on projects involving computer vision and time series analysis.
 
 More specifically I am motivated to work with AI models (including Generative models, LLMs, Real Time Object Detection & Tracking) and apply them to the web applications.
 
