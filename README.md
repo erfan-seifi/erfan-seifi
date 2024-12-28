@@ -5,11 +5,11 @@
 
 
 ### About Me
-I am Erfan, a computer engineer with a passion for machine learning, software, data science, and embedded systems. I am proficient in Python, modern C++, MATLAB, SQL, Excel  and I enjoy working on projects involving computer vision and time series analysis.
+I am a Ph.D. student in Electrical and Computer Engineering at the University of Tulsa, with an extensive experience in optical/wireless communication, computer vision, signal processing and software development. Proficient in Python, C/C++ and MATLAB, with strong object-oriented programming background.
 
-More specifically I am motivated to work with AI models (including Generative models, LLMs, Real Time Object Detection & Tracking) and apply them to the web applications.
-
-👨🏻‍🎓 Education: M.Sc. in Electrical and Computer Engineering, University of Oklahoma, U.S.🇺🇸
+👨🏻‍🎓 Education: 
+      Ph.D in Electrical and Computer Engineering, University of Tulsa, U.S. (In Progress)
+      M.Sc. in Electrical and Computer Engineering, University of Oklahoma, U.S. (Graduated)
 
 
 ### Programming
