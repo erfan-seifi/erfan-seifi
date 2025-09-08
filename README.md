@@ -5,7 +5,7 @@
 
 
 ### About Me
-I am a Ph.D. student in Electrical and Computer Engineering at the University of Tulsa, with an extensive experience in optical/wireless communication, computer vision, signal processing and software development. Proficient in Python, C/C++ and MATLAB, with strong object-oriented programming background.
+I am a Ph.D. student in Electrical and Computer Engineering at the University of Tulsa, with an extensive experience in Optics/Photonics and software/hardware development. Proficient in Python, C/C++ and MATLAB, with strong object-oriented programming background.
 
 👨🏻‍🎓 Education: 
 
