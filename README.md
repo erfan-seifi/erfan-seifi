@@ -5,29 +5,7 @@
 
 
 ### About Me
-I am a Ph.D. student in Computer Engineering at the University of Tulsa, with an extensive experience in electro-optics engineering and hardware and software development.
-
-Education: 
-
-      - Ph.D in Electrical and Computer Engineering, University of Tulsa, U.S. (In Progress)
-      
-      - M.Sc. in Electrical and Computer Engineering, University of Oklahoma, U.S. (Graduated)
-
-
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### Platforms and Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erfan-seifi/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfan.seifi.work@gmail.com)
+Embedded, Optics, and beyond!
 
 
 
